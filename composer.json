@@ -1,0 +1,22 @@
+{
+
+    "type": "project",
+    "keywords": [
+        "fastadmin",
+        "thinkphp"
+    ],
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "gao12112",
+            "email": "1157810112@qq.com"
+        }
+    ],
+    "require": {
+        "workerman/workerman":"*",
+        "walkor/globalData":"*"
+    },
+    "config": {
+        "preferred-install": "dist"
+    }
+}

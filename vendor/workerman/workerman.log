@@ -1,0 +1,6 @@
+2019-06-14 14:09:21 pid:3970 Workerman[start.php] start in DAEMON mode
+2019-06-17 13:26:32 pid:30756 Workerman[server1.php] start in DEBUG mode
+2019-06-17 13:27:25 pid:30761 Workerman[server1.php] start in DEBUG mode
+2019-06-17 18:02:25 pid:30761 Workerman[server1.php] stopping ...
+2019-06-17 18:02:25 pid:30761 Workerman[server1.php] has been stopped
+2019-06-17 18:02:34 pid:32349 Workerman[ServerTimer.php] start in DEBUG mode
